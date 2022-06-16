@@ -1,4 +1,5 @@
-![res (2)](https://user-images.githubusercontent.com/43721794/156558085-1bfeee41-8488-4f56-9b2a-8367756ad4fe.png)
+
+![image](https://user-images.githubusercontent.com/80100508/174068131-6ec1c693-05e3-40b9-960a-a92dd4b5803d.png)
 
 
 # Project Dorothy
