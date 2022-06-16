@@ -50,13 +50,13 @@ I have more knowledge of unity and C# now.
 Clone the project
 
 ```bash
-  git clone https://github.com/mustafablutt/RestaurantSystemApp
+  git clone https://github.com/mustafablutt/Project-Dorothy
 ```
 
 Go to the project directory
 
 ```bash
-  cd Restaurant-System
+  cd Project-Dorothy
 ```
 
 
