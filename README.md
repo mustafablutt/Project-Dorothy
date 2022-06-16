@@ -28,13 +28,6 @@ Using Unity and C# and PlayFab. A Jump Game in the style of a JUMPKING.
 **Tools:** Unity Hub, Visual Studio Code
 
 
-    
-## Demo
-
-
-
-![Alt text](https://github.com/mustafablutt/Restaurant-System/blob/master/images/resto.gif)
-
 ## Feedback
 
 If you have any feedback, please reach out to me at bluttmustafa@gmail.com
